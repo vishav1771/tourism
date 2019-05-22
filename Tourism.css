@@ -1,3 +1,33 @@
+
+html,body{
+	font-family: 'Poppins', sans-serif;
+}
+h2{
+	font-family: 'Montaga', serif; 
+
+}
+p{
+	font-family: 'Lato', sans-serif;
+
+}
+.para{
+	padding: 40px !important
+	padding:0;
+	
+}
+.para2{
+	background-color: #EFEFEF!important;
+
+}
+.para3{
+	background-color: #eae8ed!important;
+}
+
+.climate{
+	background-color: #EFEFEF !important;
+}
+
+
 i{
 	padding: 2px;
 }
@@ -85,6 +115,18 @@ li{
     width: 80%!important;
     vertical-align: middle;
 }
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.card_padding{
+	padding: 90px;
+}
+
+
+
+
 
 
 
